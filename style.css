@@ -1,5 +1,6 @@
 .cabecalho-imagem{
-    width: 9%;
+    background-color: blue;
+    width: 40%;
 }
 
 .cabecalho{
@@ -13,6 +14,3 @@
 .section2{
     background-color: rgb(255, 0, 0);}
 
-    .cabecalho imagem{
-    width: 20%;
-    }
