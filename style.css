@@ -4,5 +4,12 @@
 
 .cabecalho{
     background-color: black;
-    color: aliceblue;
-}
+    color: aliceblue; 
+    display: flex;
+    padding: 24px 0;}
+
+.section1{
+    background-color: bisque}
+    
+.section2{
+background-color: black;}
