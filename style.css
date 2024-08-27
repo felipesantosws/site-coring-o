@@ -5,10 +5,14 @@
 .cabecalho{
     background-color: blue; 
     display: flex;
-    padding: 12x 0;}
+    padding: 37x 0;}
 
 .section1{
     background-color: black;}
 
 .section2{
     background-color: rgb(255, 0, 0);}
+
+    .cabecalho imagem{
+    width: 20%;
+    }
