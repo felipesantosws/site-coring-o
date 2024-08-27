@@ -10,9 +10,11 @@
 
 .section1{
     background-color: blue;
-padding: 250;}
+padding: 250;
+width: 100;}
 
 .section2{
     background-color: rgb(255, 0, 0);
-padding: 250;}
+padding: 250;
+width: 100;}
 
