@@ -9,9 +9,10 @@
     padding: 37x 0;}
 
 .section1{
-    background-color: black;
-padding: 80;}
+    background-color: blue;
+padding: 100;}
 
 .section2{
-    background-color: rgb(255, 0, 0);}
+    background-color: rgb(255, 0, 0);
+padding: 100;}
 
